@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "angular_hero"
+  "cli": {
+    "analytics": false
+  }
 }
